@@ -202,6 +202,7 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**Ruchit Chaudhary**
+**Harshit Chaudhary**
 
-B.Tech --- Artificial Intelligence
+B.Tech --- Artificial Intelligence and Machine Learning
+
